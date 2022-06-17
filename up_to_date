@@ -1,0 +1,3 @@
+echo uptodate 
+git add .
+git commit 
